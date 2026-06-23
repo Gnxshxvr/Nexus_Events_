@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Events AI",
+  "description": "An advanced, AI-powered Event Intelligence Platform for organizers, attendees, and sponsors. Reducing coordination friction through smart schedule building, personalized AI matchmaking, and automated operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
